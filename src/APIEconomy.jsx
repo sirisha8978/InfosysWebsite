@@ -148,12 +148,15 @@ const APIEconomy = () => {
           <div className="blue-line"></div>
         <span>Explore Solutions</span>
         </div>
+        
+       </div>
+
       {/* RIGHT SIDE */}
       <div className="offerings-right">
 
         {/* IMAGE */}
         <img
-          src="https://tse3.mm.bing.net/th/id/OIP.qntCFUHANRP6vrqWZzri1QHaEO?rs=1&pid=ImgDetMain&o=7&rm=3"
+          src="https://www.infosys.com/content/dam/infosys-web/en/2025/thumbnails/digital-experience7-mob.jpg"
           alt="technology"
         />
 
@@ -169,12 +172,10 @@ const APIEconomy = () => {
           <div className="links-column">
             <a href="/">03. Industrialized Cloud Native Development with PaaS Platforms</a>
             <a href="/">04. MuleSoft Migration Suite by Infosys</a>
-           
           </div>
 
         </div>
 
-      </div>
       </div>
 
     </section>
