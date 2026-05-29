@@ -22,6 +22,7 @@ import NetworkTransformation from "./NetworkTransformation";
 import Oracle from "./Oracle";
 import Salesforce from "./Salesforce";
 import SAP from "./SAP";
+import APIEconomy from "./APIEconomy";
 
 
 function App() {
@@ -139,6 +140,11 @@ function App() {
           <Route
           path="/sap"
           element={<SAP/>}
+        />
+
+        <Route
+          path="/apieconomy"
+          element={<APIEconomy/>}
         />
 
       </Routes>

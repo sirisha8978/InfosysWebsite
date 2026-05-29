@@ -531,7 +531,7 @@ const Services = () => {
 
       <div className="column">
         <a href="/applied-ai">Applied AI</a>
-        <p>API Economy & Microservices</p>
+        <a href="/apieconomy">APIEconomy & Microservices</a>
         <p>Application Development</p>
         <p>Application Modernization</p>
         <p>Blockchain</p>
